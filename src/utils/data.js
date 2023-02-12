@@ -29,25 +29,23 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Social Platform for Developer",
+    tenure: "Nov 2022 - Present",
+    role: "Debugger",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+"Debugger is social platform for developer for problem sharing and chat web application where 1000's of developer and coder can join and share there coding problems, there doubts, suggestions, and coding skills.Tech stack is for frontend React.js@17.6.1 and Tailwind CSS is used and for backend Node.js@16.17.0, Express.js, for database MongoDB is used to store the data of the user which is 100% secure.JWT and Socket.io are the special features of this app that makes the environment of web app secure and interactive."
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+    place: "Crypto Currency Dashboard",
+    tenure: "Jul 2022 - Sep 2022",
+    role: "CryptoVerse",
+    detail:"CryptoVerse is a web app build using React.js and uses 90% of rapid API to fetch services like news, types and prices of latest cryptocurrencies. Almost 80% of Material UI  designs is used to give the extra edge to the design.In this project almost 100 cryptocurrencies are there with 98% accuracy of graph of prices and market values."
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+    place: "Online Salon Website",
+    tenure: "Oct 2021 - Jan 2022",
+    role: "Shrangarika Beauty Parlor",
+    detail:"Created a full-stack salon website named Shrangarika Beauty Parlour.Used HTML, CSS, and Javascript as a front language and JSP and Servlets as backend language.This website supports 100% full functionality like a login-logout system, register system, slot booking system, and many more functionalities.This websites can handle 1000's of customers and can service them accordingly.Github Link: https://github.com/UtkarshShrivastava2106/Online-Salon-Website."
   },
 ];
 
